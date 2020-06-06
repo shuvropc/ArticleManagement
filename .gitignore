@@ -13,6 +13,9 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+#client side library(load from libman)
+[Ll]ib/
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
@@ -25,6 +28,7 @@ x86/
 bld/
 [Bb]in/
 [Oo]bj/
+[Oo]bj/Debug/
 [Ll]og/
 
 # Visual Studio 2015/2017 cache/options directory
@@ -210,6 +214,8 @@ _pkginfo.txt
 # Visual Studio cache files
 # files ending in .cache can be ignored
 *.[Cc]ache
+*.[Cc]sprojAssemblyReference.[Cc]ache
+*/**/obj/Debug/
 # but keep track of directories ending in .cache
 !?*.[Cc]ache/
 
@@ -338,3 +344,4 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+GigaSecurity/src/IdentityServer/identityserver4_log.txt
