@@ -33,38 +33,3 @@ C:\Users\shuvr\Desktop\JM\ArticleManagement\ArticleManagement\obj\Debug\netcorea
 C:\Users\shuvr\Desktop\JM\ArticleManagement\ArticleManagement\obj\Debug\netcoreapp3.1\ArticleManagement.dll
 C:\Users\shuvr\Desktop\JM\ArticleManagement\ArticleManagement\obj\Debug\netcoreapp3.1\ArticleManagement.pdb
 C:\Users\shuvr\Desktop\JM\ArticleManagement\ArticleManagement\obj\Debug\netcoreapp3.1\ArticleManagement.csproj.CopyComplete
-H:\Codes\Freelance\Article Management\ArticleManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
-H:\Codes\Freelance\Article Management\ArticleManagement\bin\Debug\netcoreapp3.1\appsettings.json
-H:\Codes\Freelance\Article Management\ArticleManagement\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-H:\Codes\Freelance\Article Management\ArticleManagement\bin\Debug\netcoreapp3.1\ArticleManagement.exe
-H:\Codes\Freelance\Article Management\ArticleManagement\bin\Debug\netcoreapp3.1\ArticleManagement.deps.json
-H:\Codes\Freelance\Article Management\ArticleManagement\bin\Debug\netcoreapp3.1\ArticleManagement.runtimeconfig.json
-H:\Codes\Freelance\Article Management\ArticleManagement\bin\Debug\netcoreapp3.1\ArticleManagement.runtimeconfig.dev.json
-H:\Codes\Freelance\Article Management\ArticleManagement\bin\Debug\netcoreapp3.1\ArticleManagement.dll
-H:\Codes\Freelance\Article Management\ArticleManagement\bin\Debug\netcoreapp3.1\ArticleManagement.pdb
-H:\Codes\Freelance\Article Management\ArticleManagement\bin\Debug\netcoreapp3.1\ArticleManagement.Views.dll
-H:\Codes\Freelance\Article Management\ArticleManagement\bin\Debug\netcoreapp3.1\ArticleManagement.Views.pdb
-H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\staticwebassets\ArticleManagement.StaticWebAssets.Manifest.cache
-H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\staticwebassets\ArticleManagement.StaticWebAssets.xml
-H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\ArticleManagement.MvcApplicationPartsAssemblyInfo.cache
-H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\ArticleManagement.RazorAssemblyInfo.cache
-H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\ArticleManagement.RazorAssemblyInfo.cs
-H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\ArticleManagement.AssemblyInfoInputs.cache
-H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\ArticleManagement.AssemblyInfo.cs
-H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\ArticleManagement.TagHelpers.input.cache
-H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\ArticleManagement.TagHelpers.output.cache
-H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\ArticleManagement.RazorCoreGenerate.cache
-H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\ArticleManagement.RazorTargetAssemblyInfo.cache
-H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\ArticleManagement.RazorTargetAssemblyInfo.cs
-H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\ArticleManagement.Views.pdb
-H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\ArticleManagement.dll
-H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\ArticleManagement.pdb
-H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\ArticleManagement.csproj.CopyComplete
-H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\ArticleManagement.csprojAssemblyReference.cache

@@ -6,10 +6,3 @@ C:\Users\shuvr\Desktop\JM\ArticleManagement\AM.BLL.Common\obj\Debug\netcoreapp3.
 C:\Users\shuvr\Desktop\JM\ArticleManagement\AM.BLL.Common\obj\Debug\netcoreapp3.1\AM.BLL.Common.AssemblyInfo.cs
 C:\Users\shuvr\Desktop\JM\ArticleManagement\AM.BLL.Common\obj\Debug\netcoreapp3.1\AM.BLL.Common.dll
 C:\Users\shuvr\Desktop\JM\ArticleManagement\AM.BLL.Common\obj\Debug\netcoreapp3.1\AM.BLL.Common.pdb
-H:\Codes\Freelance\Article Management\AM.BLL.Common\bin\Debug\netcoreapp3.1\AM.BLL.Common.deps.json
-H:\Codes\Freelance\Article Management\AM.BLL.Common\bin\Debug\netcoreapp3.1\AM.BLL.Common.dll
-H:\Codes\Freelance\Article Management\AM.BLL.Common\bin\Debug\netcoreapp3.1\AM.BLL.Common.pdb
-H:\Codes\Freelance\Article Management\AM.BLL.Common\obj\Debug\netcoreapp3.1\AM.BLL.Common.AssemblyInfoInputs.cache
-H:\Codes\Freelance\Article Management\AM.BLL.Common\obj\Debug\netcoreapp3.1\AM.BLL.Common.AssemblyInfo.cs
-H:\Codes\Freelance\Article Management\AM.BLL.Common\obj\Debug\netcoreapp3.1\AM.BLL.Common.dll
-H:\Codes\Freelance\Article Management\AM.BLL.Common\obj\Debug\netcoreapp3.1\AM.BLL.Common.pdb
