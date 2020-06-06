@@ -2,12 +2,19 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AM.BLL.Mapper;
+using AM.BLL.Users.Core;
+using AM.BLL.Users.Infrastructure;
+using AM.DAL.Users.Core;
+using AM.DAL.Users.Infrastructure;
+using AutoMapper;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+
 
 namespace ArticleManagement
 {
@@ -23,7 +30,13 @@ namespace ArticleManagement
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            //AutoMapper configuration
+            services.AddAutoMapper(typeof(AllMapper));
+
             services.AddControllersWithViews().AddRazorRuntimeCompilation();
+
+            services.AddSingleton<IUserService, UserService>();
+            services.AddSingleton<IUserRepository, UserRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
