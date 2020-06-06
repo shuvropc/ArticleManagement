@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shuvr\\Desktop\\JM\\ArticleManagement\\AM.DAL.Common\\AM.DAL.Common.csproj": {}
+    "H:\\Codes\\Freelance\\Article Management\\AM.DAL.Common\\AM.DAL.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shuvr\\Desktop\\JM\\ArticleManagement\\AM.DAL.Common\\AM.DAL.Common.csproj": {
+    "H:\\Codes\\Freelance\\Article Management\\AM.DAL.Common\\AM.DAL.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shuvr\\Desktop\\JM\\ArticleManagement\\AM.DAL.Common\\AM.DAL.Common.csproj",
+        "projectUniqueName": "H:\\Codes\\Freelance\\Article Management\\AM.DAL.Common\\AM.DAL.Common.csproj",
         "projectName": "AM.DAL.Common",
-        "projectPath": "C:\\Users\\shuvr\\Desktop\\JM\\ArticleManagement\\AM.DAL.Common\\AM.DAL.Common.csproj",
+        "projectPath": "H:\\Codes\\Freelance\\Article Management\\AM.DAL.Common\\AM.DAL.Common.csproj",
         "packagesPath": "C:\\Users\\shuvr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shuvr\\Desktop\\JM\\ArticleManagement\\AM.DAL.Common\\obj\\",
+        "outputPath": "H:\\Codes\\Freelance\\Article Management\\AM.DAL.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shuvr\\AppData\\Roaming\\NuGet\\NuGet.Config",

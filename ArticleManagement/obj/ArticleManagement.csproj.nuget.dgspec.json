@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shuvr\\Desktop\\JM\\ArticleManagement\\ArticleManagement\\ArticleManagement.csproj": {}
+    "H:\\Codes\\Freelance\\Article Management\\ArticleManagement\\ArticleManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shuvr\\Desktop\\JM\\ArticleManagement\\ArticleManagement\\ArticleManagement.csproj": {
+    "H:\\Codes\\Freelance\\Article Management\\ArticleManagement\\ArticleManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shuvr\\Desktop\\JM\\ArticleManagement\\ArticleManagement\\ArticleManagement.csproj",
+        "projectUniqueName": "H:\\Codes\\Freelance\\Article Management\\ArticleManagement\\ArticleManagement.csproj",
         "projectName": "ArticleManagement",
-        "projectPath": "C:\\Users\\shuvr\\Desktop\\JM\\ArticleManagement\\ArticleManagement\\ArticleManagement.csproj",
+        "projectPath": "H:\\Codes\\Freelance\\Article Management\\ArticleManagement\\ArticleManagement.csproj",
         "packagesPath": "C:\\Users\\shuvr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shuvr\\Desktop\\JM\\ArticleManagement\\ArticleManagement\\obj\\",
+        "outputPath": "H:\\Codes\\Freelance\\Article Management\\ArticleManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shuvr\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shuvr\\Desktop\\JM\\ArticleManagement\\AM.DAL.Core\\AM.DAL.Core.csproj": {}
+    "H:\\Codes\\Freelance\\Article Management\\AM.DAL.Core\\AM.DAL.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shuvr\\Desktop\\JM\\ArticleManagement\\AM.DAL.Core\\AM.DAL.Core.csproj": {
+    "H:\\Codes\\Freelance\\Article Management\\AM.DAL.Core\\AM.DAL.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shuvr\\Desktop\\JM\\ArticleManagement\\AM.DAL.Core\\AM.DAL.Core.csproj",
+        "projectUniqueName": "H:\\Codes\\Freelance\\Article Management\\AM.DAL.Core\\AM.DAL.Core.csproj",
         "projectName": "AM.DAL.Core",
-        "projectPath": "C:\\Users\\shuvr\\Desktop\\JM\\ArticleManagement\\AM.DAL.Core\\AM.DAL.Core.csproj",
+        "projectPath": "H:\\Codes\\Freelance\\Article Management\\AM.DAL.Core\\AM.DAL.Core.csproj",
         "packagesPath": "C:\\Users\\shuvr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shuvr\\Desktop\\JM\\ArticleManagement\\AM.DAL.Core\\obj\\",
+        "outputPath": "H:\\Codes\\Freelance\\Article Management\\AM.DAL.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shuvr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,6 +37,24 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

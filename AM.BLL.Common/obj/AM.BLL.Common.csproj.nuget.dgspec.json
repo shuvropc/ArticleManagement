@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shuvr\\Desktop\\JM\\ArticleManagement\\AM.BLL.Common\\AM.BLL.Common.csproj": {}
+    "H:\\Codes\\Freelance\\Article Management\\AM.BLL.Common\\AM.BLL.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shuvr\\Desktop\\JM\\ArticleManagement\\AM.BLL.Common\\AM.BLL.Common.csproj": {
+    "H:\\Codes\\Freelance\\Article Management\\AM.BLL.Common\\AM.BLL.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shuvr\\Desktop\\JM\\ArticleManagement\\AM.BLL.Common\\AM.BLL.Common.csproj",
+        "projectUniqueName": "H:\\Codes\\Freelance\\Article Management\\AM.BLL.Common\\AM.BLL.Common.csproj",
         "projectName": "AM.BLL.Common",
-        "projectPath": "C:\\Users\\shuvr\\Desktop\\JM\\ArticleManagement\\AM.BLL.Common\\AM.BLL.Common.csproj",
+        "projectPath": "H:\\Codes\\Freelance\\Article Management\\AM.BLL.Common\\AM.BLL.Common.csproj",
         "packagesPath": "C:\\Users\\shuvr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shuvr\\Desktop\\JM\\ArticleManagement\\AM.BLL.Common\\obj\\",
+        "outputPath": "H:\\Codes\\Freelance\\Article Management\\AM.BLL.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shuvr\\AppData\\Roaming\\NuGet\\NuGet.Config",
