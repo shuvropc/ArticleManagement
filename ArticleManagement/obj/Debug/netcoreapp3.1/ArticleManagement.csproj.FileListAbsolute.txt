@@ -436,6 +436,8 @@ H:\Codes\Freelance\Article Management\ArticleManagement\bin\Debug\netcoreapp3.1\
 H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\ArticleManagement.csprojAssemblyReference.cache
 H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\staticwebassets\ArticleManagement.StaticWebAssets.Manifest.cache
 H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\staticwebassets\ArticleManagement.StaticWebAssets.xml
+H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\ArticleManagement.MvcApplicationPartsAssemblyInfo.cs
+H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\ArticleManagement.MvcApplicationPartsAssemblyInfo.cache
 H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\ArticleManagement.RazorAssemblyInfo.cache
 H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\ArticleManagement.RazorAssemblyInfo.cs
 H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\ArticleManagement.AssemblyInfoInputs.cache
@@ -457,5 +459,3 @@ H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\
 H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\ArticleManagement.csproj.CopyComplete
 H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\ArticleManagement.dll
 H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\ArticleManagement.pdb
-H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\ArticleManagement.MvcApplicationPartsAssemblyInfo.cs
-H:\Codes\Freelance\Article Management\ArticleManagement\obj\Debug\netcoreapp3.1\ArticleManagement.MvcApplicationPartsAssemblyInfo.cache

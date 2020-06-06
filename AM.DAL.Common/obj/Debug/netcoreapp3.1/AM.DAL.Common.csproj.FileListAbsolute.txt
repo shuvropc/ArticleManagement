@@ -9,6 +9,7 @@ C:\Users\shuvr\Desktop\JM\ArticleManagement\AM.DAL.Common\obj\Debug\netcoreapp3.
 H:\Codes\Freelance\Article Management\AM.DAL.Common\bin\Debug\netcoreapp3.1\AM.DAL.Common.deps.json
 H:\Codes\Freelance\Article Management\AM.DAL.Common\bin\Debug\netcoreapp3.1\AM.DAL.Common.dll
 H:\Codes\Freelance\Article Management\AM.DAL.Common\bin\Debug\netcoreapp3.1\AM.DAL.Common.pdb
+H:\Codes\Freelance\Article Management\AM.DAL.Common\obj\Debug\netcoreapp3.1\AM.DAL.Common.csprojAssemblyReference.cache
 H:\Codes\Freelance\Article Management\AM.DAL.Common\obj\Debug\netcoreapp3.1\AM.DAL.Common.AssemblyInfoInputs.cache
 H:\Codes\Freelance\Article Management\AM.DAL.Common\obj\Debug\netcoreapp3.1\AM.DAL.Common.AssemblyInfo.cs
 H:\Codes\Freelance\Article Management\AM.DAL.Common\obj\Debug\netcoreapp3.1\AM.DAL.Common.dll
