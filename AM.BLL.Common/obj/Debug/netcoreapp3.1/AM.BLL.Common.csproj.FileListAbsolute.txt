@@ -6,3 +6,12 @@ C:\Users\shuvr\Desktop\JM\ArticleManagement\AM.BLL.Common\obj\Debug\netcoreapp3.
 C:\Users\shuvr\Desktop\JM\ArticleManagement\AM.BLL.Common\obj\Debug\netcoreapp3.1\AM.BLL.Common.AssemblyInfo.cs
 C:\Users\shuvr\Desktop\JM\ArticleManagement\AM.BLL.Common\obj\Debug\netcoreapp3.1\AM.BLL.Common.dll
 C:\Users\shuvr\Desktop\JM\ArticleManagement\AM.BLL.Common\obj\Debug\netcoreapp3.1\AM.BLL.Common.pdb
+C:\Users\Dev001\Source\Repos\shuvropc\ArticleManagement\AM.BLL.Common\bin\Debug\netcoreapp3.1\AM.BLL.Common.deps.json
+C:\Users\Dev001\Source\Repos\shuvropc\ArticleManagement\AM.BLL.Common\bin\Debug\netcoreapp3.1\AM.BLL.Common.dll
+C:\Users\Dev001\Source\Repos\shuvropc\ArticleManagement\AM.BLL.Common\bin\Debug\netcoreapp3.1\AM.BLL.Common.pdb
+C:\Users\Dev001\Source\Repos\shuvropc\ArticleManagement\AM.BLL.Common\obj\Debug\netcoreapp3.1\AM.BLL.Common.csprojAssemblyReference.cache
+C:\Users\Dev001\Source\Repos\shuvropc\ArticleManagement\AM.BLL.Common\obj\Debug\netcoreapp3.1\AM.BLL.Common.csproj.CoreCompileInputs.cache
+C:\Users\Dev001\Source\Repos\shuvropc\ArticleManagement\AM.BLL.Common\obj\Debug\netcoreapp3.1\AM.BLL.Common.AssemblyInfoInputs.cache
+C:\Users\Dev001\Source\Repos\shuvropc\ArticleManagement\AM.BLL.Common\obj\Debug\netcoreapp3.1\AM.BLL.Common.AssemblyInfo.cs
+C:\Users\Dev001\Source\Repos\shuvropc\ArticleManagement\AM.BLL.Common\obj\Debug\netcoreapp3.1\AM.BLL.Common.dll
+C:\Users\Dev001\Source\Repos\shuvropc\ArticleManagement\AM.BLL.Common\obj\Debug\netcoreapp3.1\AM.BLL.Common.pdb

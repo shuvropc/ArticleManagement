@@ -1,4 +1,5 @@
-﻿using AM.DAL.Core.Entities;
+﻿
+using AM.DM.DAL;
 using AM.DM.User;
 using ArticleManagement.Models;
 using AutoMapper;

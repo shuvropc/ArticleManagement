@@ -6,3 +6,12 @@ C:\Users\shuvr\Desktop\JM\ArticleManagement\AM.DAL.Common\obj\Debug\netcoreapp3.
 C:\Users\shuvr\Desktop\JM\ArticleManagement\AM.DAL.Common\obj\Debug\netcoreapp3.1\AM.DAL.Common.AssemblyInfo.cs
 C:\Users\shuvr\Desktop\JM\ArticleManagement\AM.DAL.Common\obj\Debug\netcoreapp3.1\AM.DAL.Common.dll
 C:\Users\shuvr\Desktop\JM\ArticleManagement\AM.DAL.Common\obj\Debug\netcoreapp3.1\AM.DAL.Common.pdb
+C:\Users\Dev001\Source\Repos\shuvropc\ArticleManagement\AM.DAL.Common\bin\Debug\netcoreapp3.1\AM.DAL.Common.deps.json
+C:\Users\Dev001\Source\Repos\shuvropc\ArticleManagement\AM.DAL.Common\bin\Debug\netcoreapp3.1\AM.DAL.Common.dll
+C:\Users\Dev001\Source\Repos\shuvropc\ArticleManagement\AM.DAL.Common\bin\Debug\netcoreapp3.1\AM.DAL.Common.pdb
+C:\Users\Dev001\Source\Repos\shuvropc\ArticleManagement\AM.DAL.Common\obj\Debug\netcoreapp3.1\AM.DAL.Common.csprojAssemblyReference.cache
+C:\Users\Dev001\Source\Repos\shuvropc\ArticleManagement\AM.DAL.Common\obj\Debug\netcoreapp3.1\AM.DAL.Common.csproj.CoreCompileInputs.cache
+C:\Users\Dev001\Source\Repos\shuvropc\ArticleManagement\AM.DAL.Common\obj\Debug\netcoreapp3.1\AM.DAL.Common.AssemblyInfoInputs.cache
+C:\Users\Dev001\Source\Repos\shuvropc\ArticleManagement\AM.DAL.Common\obj\Debug\netcoreapp3.1\AM.DAL.Common.AssemblyInfo.cs
+C:\Users\Dev001\Source\Repos\shuvropc\ArticleManagement\AM.DAL.Common\obj\Debug\netcoreapp3.1\AM.DAL.Common.dll
+C:\Users\Dev001\Source\Repos\shuvropc\ArticleManagement\AM.DAL.Common\obj\Debug\netcoreapp3.1\AM.DAL.Common.pdb
